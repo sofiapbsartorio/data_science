@@ -1,10 +1,10 @@
+#1. Read the `iris-with-errors.csv` dataset, clean the data, and remove the last two columns.
+
 import pandas as pd
 import numpy as np
 
 pd.set_option("display.max_columns", 30)
 pd.set_option("display.width", 120)
-
-#1. Read the `iris-with-errors.csv` dataset, clean the data, and remove the last two columns.
 
 data = pd.read_csv("data/iris-with-errors.csv", header=0)
 print("------------- Step 1 ------------- ")

@@ -1,0 +1,1 @@
+#5. Resample the Iris dataset by selecting 10 elements from each class.
