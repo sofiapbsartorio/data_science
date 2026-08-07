@@ -1,4 +1,4 @@
-#2. Read the `iris-with-errors.csv` dataset and replace missing values with the **median** of each attribute.
+# 2. Read the `iris-with-errors.csv` dataset and replace missing values with the **median** of each attribute.
 import pandas as pd
 import numpy as np
 
