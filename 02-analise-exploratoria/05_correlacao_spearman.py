@@ -1,0 +1,1 @@
+# 5. Calcule a matriz de correlação de Spearman da base Iris. Os resultados são semelhantes aos obtidos com Pearson?
