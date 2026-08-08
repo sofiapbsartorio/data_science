@@ -1,4 +1,4 @@
-# 5. Resample the Iris dataset by selecting 10 elements from each class.
+# 5. Reamostre a base Iris selecionando 10 elementos de cada classe.
 import pandas as pd
 import numpy as np
 

@@ -1,5 +1,5 @@
-# 🐍 Python Data Science Exercises
+# 🐍 Exercícios de Ciência de Dados em Python
 
-> 📚 **Study & Learning Repository**: This project was created for educational purposes, hands-on practice, and consolidating Data Science fundamentals.
+> 📚 **Repositório de Estudos e Aprendizado**: Este projeto foi criado para fins educacionais, prática e consolidação dos fundamentos de Ciência de Dados.
 
-Welcome to my repository! Here you will find a collection of Python scripts developed as practical study exercises focused on data preprocessing, cleaning, normalization, and feature engineering using famous datasets like Iris.
+Coleção de scripts em Python desenvolvidos como exercícios práticos de estudo, focados em pré-processamento, limpeza, normalização de dados e engenharia de recursos.
